@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+![meta meme](https://i.ytimg.com/vi/RP2UFosnYcg/hqdefault.jpg)
 Use the left arrow to go back!
